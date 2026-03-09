@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: app-container
-        image: your-docker-username/your-image-name:2.0.0
+        image: your-docker-username/your-image-name:3.0.0
         ports:
         - containerPort: 80
         resources:
