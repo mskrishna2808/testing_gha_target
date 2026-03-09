@@ -26,4 +26,3 @@ spec:
           limits:
             memory: "128Mi"
             cpu: "500m"
-tag: 2.0.0
